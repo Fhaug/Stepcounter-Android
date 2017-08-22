@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Pedometer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="facebook_app_id">1601863986795324</string>
+
+    <string-array name="nav_drawer_items">
+        <item>Steps</item>
+        <item>Run</item>
+        <item>History Steps</item>
+         <item>History Run</item>
+        <item>Share</item>
+       <!--  <item>Fifth</item>
+        <item>Sixth</item> -->
+    </string-array>
+
+    <array name="nav_drawer_icons">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+       <item>@mipmap/ic_launcher</item>
+      <!--   <item>@drawable/ic_launcher</item>
+        -->
+
+    </array>
+
+</resources>
